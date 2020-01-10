@@ -1,0 +1,33 @@
+.wrapper {
+  text-align: center;
+}
+.custom-btn {
+  display: inline-block;
+  background: white;
+  color: #555;
+  border-radius: 3px;
+  box-shadow: 0 1px 5px 0px rgba(0, 0, 0, 0.2);
+  padding: 5px 15px;
+  font-size: 18px;
+  line-height: 24px;
+}
+
+svg {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+span.label {
+  font-family: serif;
+  font-weight: normal;
+}
+
+span.buttonText {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0px 0px 0px 7px;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+}
+
